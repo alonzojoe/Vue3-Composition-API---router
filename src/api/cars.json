@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Volvo",
+        "price": 24000,
+        "year": 2015,
+        "contact": {
+            "dealer": "Volvo",
+            "contact": 9432049320
+        }
+    },
+    {
+        "id": 2,
+        "name": "Lamborghini",
+        "price": 9000000,
+        "year": 2021,
+        "contact": {
+            "dealer": "Lambo",
+            "contact": 967876876876
+        }
+    },
+    {
+        "id": 3,
+        "name": "Porshe",
+        "price": 7007000,
+        "year": 2018,
+        "contact": {
+            "dealer": "Porch",
+            "contact": 976575756
+        }
+    },
+    {
+        "id": 4,
+        "name": "Civic",
+        "price": 90000,
+        "year": 2016,
+        "contact": {
+            "dealer": "Honda",
+            "contact": 976576765
+        }
+    },
+    {
+        "id": 5,
+        "name": "Mustang",
+        "price": 100000,
+        "year": 2019,
+        "contact": {
+            "dealer": "Volvo",
+            "contact": 9432049320
+        }
+    }
+]
